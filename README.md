@@ -9,18 +9,18 @@ The Hotel Management System utilizes Java and SQL to create a terminal-based dat
 
 ## User Features
 
-Create Users
-Log In
-View Hotels based on Longitude and Latitude
-View Rooms and Occupancy
-Book Rooms
+Create Users  <br>
+Log In  <br>
+View Hotels based on Longitude and Latitude  <br>
+View Rooms and Occupancy  <br>
+Book Rooms  <br>
 
 ## Manager Features
 
-View Recent Bookings from Customers
-Change and Update Room Information
-View Recent Updates and Changes
-View Booking History of Hotels
-View Regular Customers
-Place Room Repair Requests
-View Room Repair Requests
+View Recent Bookings from Customers  <br>
+Change and Update Room Information  <br>
+View Recent Updates and Changes  <br>
+View Booking History of Hotels  <br>
+View Regular Customers  <br>
+Place Room Repair Requests  <br>
+View Room Repair Requests  <br>
